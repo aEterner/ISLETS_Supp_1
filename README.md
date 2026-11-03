@@ -1,1 +1,1 @@
-This is a Supplementary code for the paper in progress.
+This is a Supplementary code for the paper "Dopamine Transporter Deficiency and Altered Glucose Homeostasis: Insights from DAT-Heterozygous Rats and Public Transcriptomic Data Analysis" aothored by Evgeny V. Kanov, Angelina A. Fomicheva, Zoia S. Fesenko, Polina A. Sylko, Raul R. Gainetdinov, Anna B. Volnova, and Anastasia N. Vaganova 
